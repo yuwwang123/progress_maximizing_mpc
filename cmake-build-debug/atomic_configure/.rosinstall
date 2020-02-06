@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yuwei/yuwei_ws/src/pm_mpc/cmake-build-debug/devel/setup.sh

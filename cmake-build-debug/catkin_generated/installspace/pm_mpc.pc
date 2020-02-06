@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: pm_mpc
+Description: Description of pm_mpc
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -lpm_mpc -lhmpc_auto_race
+Requires: roscpp
